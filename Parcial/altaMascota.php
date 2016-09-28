@@ -4,7 +4,7 @@
 <link href="css/ingreso.css" rel="stylesheet">
 </head>
 <body>
-<form  class="form-ingreso " method = "POST" action = "index.php">
+<form  class="form-ingreso " method = "POST" action = "nueva.php">
 	<input type = "text" name = "nombre" id = "nombre" placeholder = "Ingrese nombre..."><br>
 
 	<input type = "text" name = "edad" id = "mail" placeholder = "Ingrese edad..."><br>
